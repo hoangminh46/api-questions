@@ -1,0 +1,139 @@
+{
+  "topics": [
+    {
+      "id": "1",
+      "name": "Javascript",
+      "difficult": 2,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        },
+        {
+          "id": 2,
+          "content": "Công cụ viết code JavaScript?",
+          "options": [
+            "A. Chương trình Notepad++",
+            "B. Chương trình Visual Studio Code",
+            "C. Chương trình Sublime",
+            "D. Tất cả chương trình trên"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 3,
+          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 4,
+          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 5,
+          "content": "Thẻ <input type='text'> dùng để làm gì?",
+          "options": [
+            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+            "B. Tạo một ô password",
+            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
+            "D. Tất cả ý trên"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 6,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        },
+        {
+          "id": 7,
+          "content": "Công cụ viết code JavaScript?",
+          "options": [
+            "A. Chương trình Notepad++",
+            "B. Chương trình Visual Studio Code",
+            "C. Chương trình Sublime",
+            "D. Tất cả chương trình trên"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 8,
+          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 9,
+          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 10,
+          "content": "Thẻ <input type='text'> dùng để làm gì?",
+          "options": [
+            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+            "B. Tạo một ô password",
+            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
+            "D. Tất cả ý trên"
+          ],
+          "correctOption": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "HTML",
+      "difficult": 1,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        }
+      ]
+    }
+  ]
+}

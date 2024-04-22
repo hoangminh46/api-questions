@@ -1,0 +1,297 @@
+{
+  "test": [
+    {
+      "id": "1",
+      "name": "Bài kiểm tra javascript 1",
+      "time": 7,
+      "difficult": 1,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        },
+        {
+          "id": 2,
+          "content": "Công cụ viết code JavaScript?",
+          "options": [
+            "A. Chương trình Notepad++",
+            "B. Chương trình Visual Studio Code",
+            "C. Chương trình Sublime",
+            "D. Tất cả chương trình trên"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 3,
+          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 4,
+          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 5,
+          "content": "Thẻ <input type='text'> dùng để làm gì?",
+          "options": [
+            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+            "B. Tạo một ô password",
+            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
+            "D. Tất cả ý trên"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 6,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        },
+        {
+          "id": 7,
+          "content": "Công cụ viết code JavaScript?",
+          "options": [
+            "A. Chương trình Notepad++",
+            "B. Chương trình Visual Studio Code",
+            "C. Chương trình Sublime",
+            "D. Tất cả chương trình trên"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 8,
+          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": 9,
+          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Bài kiểm tra HTML 1",
+      "time": 7,
+      "difficult": 2,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "HTML là viết tắt của?",
+          "options": [
+            "A. Hyperlinks and Text Markup Language",
+            "B. Home Tool Markup Language",
+            "C. Hyper Text Markup Language",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        },
+        {
+          "id": 2,
+          "content": "Chọn thẻ HTML đúng nhất cho định dạng tiêu đề lớn nhất?",
+          "options": ["A. <h6>", "B. <h1>", "C. <head>", "D. <heading>"],
+          "correctOption": 1
+        },
+        {
+          "id": 3,
+          "content": "Thẻ nào dùng để xuống dòng trong HTML?",
+          "options": ["A. <enter>", "B. <br>", "C. <break>", "D. <lb>"],
+          "correctOption": 2
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Bài kiểm tra CSS 1",
+      "time": 7,
+      "difficult": 3,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Thuộc tính nào thay đổi kích cỡ chữ?",
+          "options": [
+            "A. font-style",
+            "B. font-size",
+            "C. text-style",
+            "D. text-size"
+          ],
+          "correctOption": 1
+        },
+        {
+          "id": 2,
+          "content": "Làm sao để hiển thị liên kết mà ko có gạch chân bên dưới?",
+          "options": [
+            "A. a {decoration:no underline}",
+            "B. a {text-decoration:no underline}",
+            "C. a {underline:none}",
+            "D. a {text-decoration:none}"
+          ],
+          "correctOption": 3
+        },
+        {
+          "id": 3,
+          "content": "Làm sao để mỗi từ trong 1 dạng đều viết hoa ở đầu từ?",
+          "options": [
+            "A. text-transform:capitalize",
+            "B. text-transform:uppercase",
+            "C. Bạn không thể làm điều này trong CSS",
+            "D. Không có đáp án nào đúng"
+          ],
+          "correctOption": 1
+        },
+        {
+          "id": 4,
+          "content": "Làm sao để thay đổi lề trái của một phần tử?",
+          "options": [
+            "A. margin-left:",
+            "B. text-indent:",
+            "C. margin:",
+            "D. indent:"
+          ],
+          "correctOption": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Bài kiểm tra javascript 1",
+      "time": 7,
+      "difficult": 2,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Bài kiểm tra javascript 1",
+      "time": 7,
+      "difficult": 1,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Bài kiểm tra javascript 1",
+      "time": 7,
+      "difficult": 2,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Bài kiểm tra javascript 2",
+      "time": 7,
+      "difficult": 3,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Bài kiểm tra javascript 3",
+      "time": 7,
+      "difficult": 2,
+      "start": 0,
+      "questions": [
+        {
+          "id": 1,
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        }
+      ]
+    }
+  ]
+}
