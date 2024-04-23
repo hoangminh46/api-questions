@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 // Endpoint để lấy danh sách các chủ đề
 app.get("/topics", (req, res) => {
   // Trả về cấu trúc dữ liệu topics
-  res.json({ topics: topicsData.topics });
+  res.json(topicsData.topics);
 });
 
 // Endpoint để lấy chi tiết của một chủ đề

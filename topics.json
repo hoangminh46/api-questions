@@ -1,12 +1,12 @@
 {
   "topics": [
     {
-      "id": "1",
+      "id": "c9bf23a7-d628-4d45-a16c-1d84310a0938",
       "name": "Javascript",
       "difficult": 2,
       "questions": [
         {
-          "id": 1,
+          "id": "1a869f8e-2599-4b9c-9616-63a7650ad1a9",
           "content": "Mục đích của JavaScript?",
           "options": [
             "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
@@ -17,7 +17,7 @@
           "correctOption": 2
         },
         {
-          "id": 2,
+          "id": "9235db82-bfc9-4f93-8e82-c959b9cbe074",
           "content": "Công cụ viết code JavaScript?",
           "options": [
             "A. Chương trình Notepad++",
@@ -28,7 +28,7 @@
           "correctOption": 0
         },
         {
-          "id": 3,
+          "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
           "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
           "options": [
             "A. Khi bắt đầu chương trình chạy",
@@ -39,7 +39,7 @@
           "correctOption": 0
         },
         {
-          "id": 4,
+          "id": "4cc8831a-8365-40a4-ab2c-f7184a62392a",
           "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
           "options": [
             "A. Khi bắt đầu chương trình chạy",
@@ -50,7 +50,7 @@
           "correctOption": 0
         },
         {
-          "id": 5,
+          "id": "6e37cf9d-18e1-4820-b21e-31c595b782a2",
           "content": "Thẻ <input type='text'> dùng để làm gì?",
           "options": [
             "A. Tạo một ô text để nhập dữ liệu 1 dòng",
@@ -61,7 +61,7 @@
           "correctOption": 0
         },
         {
-          "id": 6,
+          "id": "565a16dd-85c2-43ac-bd63-4561ed013454",
           "content": "Mục đích của JavaScript?",
           "options": [
             "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
@@ -72,7 +72,7 @@
           "correctOption": 2
         },
         {
-          "id": 7,
+          "id": "31695bc8-4df4-4203-9624-9e74af489bf0",
           "content": "Công cụ viết code JavaScript?",
           "options": [
             "A. Chương trình Notepad++",
@@ -83,7 +83,7 @@
           "correctOption": 0
         },
         {
-          "id": 8,
+          "id": "c58bb33c-5f9c-4397-980e-b77fa751aae6",
           "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
           "options": [
             "A. Khi bắt đầu chương trình chạy",
@@ -94,7 +94,7 @@
           "correctOption": 0
         },
         {
-          "id": 9,
+          "id": "58d11777-aae5-4c2b-87f3-99d7b466a565",
           "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
           "options": [
             "A. Khi bắt đầu chương trình chạy",
@@ -105,7 +105,7 @@
           "correctOption": 0
         },
         {
-          "id": 10,
+          "id": "9e0de9be-308c-4c3f-8b3a-0ab3589eedb0",
           "content": "Thẻ <input type='text'> dùng để làm gì?",
           "options": [
             "A. Tạo một ô text để nhập dữ liệu 1 dòng",
@@ -118,12 +118,12 @@
       ]
     },
     {
-      "id": "2",
+      "id": "5cc9055b-a7b3-480c-937c-449906ac29c5",
       "name": "HTML",
       "difficult": 1,
       "questions": [
         {
-          "id": 1,
+          "id": "63b423ca-bf0d-47db-b12f-3d9618c0432a",
           "content": "Mục đích của JavaScript?",
           "options": [
             "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
