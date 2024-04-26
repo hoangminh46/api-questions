@@ -150,7 +150,7 @@ app.get("/tests/:id", (req, res) => {
 app.post("/tests", (req, res) => {
   const newTest = req.body;
   testsData.test.push(newTest);
-  fs.writeFileSync("tests.json.json", JSON.stringify(testsData, null, 4));
+  fs.writeFileSync("tests.json", JSON.stringify(testsData, null, 4));
   res.json(newTest);
 });
 

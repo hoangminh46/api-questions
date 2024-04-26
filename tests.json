@@ -195,9 +195,9 @@
     },
     {
       "id": "4",
-      "name": "Bài kiểm tra javascript 1",
-      "time": 7,
-      "difficult": 2,
+      "name": "Bài kiểm tra HTML/CSS",
+      "time": "8",
+      "difficult": 3,
       "start": 0,
       "questions": [
         {
@@ -210,6 +210,28 @@
             "D. Hai phát biểu đều sai"
           ],
           "correctOption": 2
+        },
+        {
+          "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
+          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": "9e0de9be-308c-4c3f-8b3a-0ab3589eedb0",
+          "content": "Thẻ <input type='text'> dùng để làm gì?",
+          "options": [
+            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+            "B. Tạo một ô password",
+            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
+            "D. Tất cả ý trên"
+          ],
+          "correctOption": 0
         }
       ]
     },
@@ -290,6 +312,81 @@
             "D. Hai phát biểu đều sai"
           ],
           "correctOption": 2
+        }
+      ]
+    },
+    {
+      "id": "82da7292-26cf-4166-8671-476f3cc0991e",
+      "name": "bt ve nhin",
+      "time": "20",
+      "difficult": 1,
+      "start": 0,
+      "questions": [
+        {
+          "id": "9e0de9be-308c-4c3f-8b3a-0ab3589eedb0",
+          "content": "Thẻ <input type='text'> dùng để làm gì?",
+          "options": [
+            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
+            "B. Tạo một ô password",
+            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
+            "D. Tất cả ý trên"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": "58d11777-aae5-4c2b-87f3-99d7b466a565",
+          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
+          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": "1a869f8e-2599-4b9c-9616-63a7650ad1a9",
+          "content": "Mục đích của JavaScript?",
+          "options": [
+            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+            "C. Hai phát biểu đều đúng",
+            "D. Hai phát biểu đều sai"
+          ],
+          "correctOption": 2
+        },
+        {
+          "id": "4cc8831a-8365-40a4-ab2c-f7184a62392a",
+          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+          "options": [
+            "A. Khi bắt đầu chương trình chạy",
+            "B. Khi click chuột",
+            "C. Khi kết thúc một chương trình",
+            "D. Khi di chuyển chuột qua"
+          ],
+          "correctOption": 0
+        },
+        {
+          "id": "9235db82-bfc9-4f93-8e82-c959b9cbe074",
+          "content": "Công cụ viết code JavaScript?",
+          "options": [
+            "A. Chương trình Notepad++",
+            "B. Chương trình Visual Studio Code",
+            "C. Chương trình Sublime",
+            "D. Tất cả chương trình trên"
+          ],
+          "correctOption": 0
         }
       ]
     }
