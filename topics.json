@@ -4,6 +4,7 @@
       "id": "c9bf23a7-d628-4d45-a16c-1d84310a0938",
       "name": "Javascript",
       "difficult": 2,
+      "description": "Danh sách câu hỏi JS",
       "questions": [
         {
           "id": "1a869f8e-2599-4b9c-9616-63a7650ad1a9",
@@ -25,7 +26,7 @@
             "C. Chương trình Sublime",
             "D. Tất cả chương trình trên"
           ],
-          "correctOption": 0
+          "correctOption": 1
         },
         {
           "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
@@ -47,7 +48,7 @@
             "C. Khi kết thúc một chương trình",
             "D. Khi di chuyển chuột qua"
           ],
-          "correctOption": 0
+          "correctOption": 3
         },
         {
           "id": "6e37cf9d-18e1-4820-b21e-31c595b782a2",
@@ -121,6 +122,7 @@
       "id": "5cc9055b-a7b3-480c-937c-449906ac29c5",
       "name": "HTML",
       "difficult": 1,
+      "description": "Danh sách câu hỏi HTML",
       "questions": [
         {
           "id": "63b423ca-bf0d-47db-b12f-3d9618c0432a",

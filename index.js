@@ -69,6 +69,20 @@ app.delete("/topics/:id", (req, res) => {
   }
 });
 
+// Endpoint để lấy ra danh sách câu hỏi của một chủ đề
+app.get("/topics/:id/questions", (req, res) => {
+  const topicId = req.params.id;
+  // Tìm chủ đề dựa trên ID
+  const topic = topicsData.topics.find((topic) => topic.id === topicId);
+  if (!topic) {
+    // Nếu không tìm thấy chủ đề, trả về lỗi 404
+    return res.status(404).json({ message: "Chủ đề không tồn tại" });
+  }
+  const questions = topic.questions;
+  // Trả về danh sách câu hỏi
+  res.json({ questions });
+});
+
 // Endpoint để tạo một câu hỏi mới cho một chủ đề
 app.post("/topics/:id/questions", (req, res) => {
   const topicId = req.params.id;
