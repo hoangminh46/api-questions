@@ -34,6 +34,7 @@ app.post("/topics", (req, res) => {
   // Thêm chủ đề mới vào cấu trúc dữ liệu
   topicsData.topics.push(newTopic);
   res.json(newTopic);
+  fs.writeFileSync("topics.json", JSON.stringify(topicsData, null, 4));
 });
 
 // Endpoint để cập nhật một chủ đề
@@ -48,6 +49,7 @@ app.put("/topics/:id", (req, res) => {
     // Cập nhật chủ đề
     topicsData.topics[topicIndex] = updatedTopic;
     res.json(updatedTopic);
+    fs.writeFileSync("topics.json", JSON.stringify(topicsData, null, 4));
   } else {
     res.status(404).json({ error: "Chủ đề không tồn tại." });
   }
@@ -64,6 +66,7 @@ app.delete("/topics/:id", (req, res) => {
     // Xóa chủ đề khỏi cấu trúc dữ liệu
     topicsData.topics.splice(topicIndex, 1);
     res.sendStatus(204);
+    fs.writeFileSync("topics.json", JSON.stringify(topicsData, null, 4));
   } else {
     res.status(404).json({ error: "Chủ đề không tồn tại." });
   }
@@ -93,6 +96,7 @@ app.post("/topics/:id/questions", (req, res) => {
     // Thêm câu hỏi mới vào chủ đề
     topic.questions.push(newQuestion);
     res.json(newQuestion);
+    fs.writeFileSync("topics.json", JSON.stringify(topicsData, null, 4));
   } else {
     res.status(404).json({ error: "Chủ đề không tồn tại." });
   }
@@ -114,6 +118,7 @@ app.put("/topics/:topicId/questions/:questionId", (req, res) => {
       // Cập nhật câu hỏi
       Object.assign(question, updatedQuestion);
       res.json(updatedQuestion);
+      fs.writeFileSync("topics.json", JSON.stringify(topicsData, null, 4));
     } else {
       res.status(404).json({ error: "Câu hỏi không tồn tại." });
     }
@@ -136,6 +141,7 @@ app.delete("/topics/:topicId/questions/:questionId", (req, res) => {
       // Xóa câu hỏi khỏi chủ đề
       topic.questions.splice(questionIndex, 1);
       res.sendStatus(204);
+      fs.writeFileSync("topics.json", JSON.stringify(topicsData, null, 4));
     } else {
       res.status(404).json({ error: "Câu hỏi không tồn tại." });
     }

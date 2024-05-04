@@ -1,394 +1,593 @@
 {
-  "test": [
-    {
-      "id": "1",
-      "name": "Bài kiểm tra javascript 1",
-      "time": 7,
-      "difficult": 1,
-      "start": 0,
-      "questions": [
+    "test": [
         {
-          "id": 1,
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
+            "id": "1",
+            "name": "Bài kiểm tra javascript 1",
+            "time": 7,
+            "difficult": 1,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                },
+                {
+                    "id": 2,
+                    "content": "Công cụ viết code JavaScript?",
+                    "options": [
+                        "Chương trình Notepad++",
+                        "Chương trình Visual Studio Code",
+                        "Chương trình Sublime",
+                        "Tất cả chương trình trên"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": 3,
+                    "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": 4,
+                    "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": 5,
+                    "content": "Thẻ <input type='text'> dùng để làm gì?",
+                    "options": [
+                        "Tạo một ô text để nhập dữ liệu 1 dòng",
+                        "Tạo một ô password",
+                        "Tạo Textbox cho phép nhập liệu nhiều dòng",
+                        "Tất cả ý trên"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": 6,
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                },
+                {
+                    "id": 7,
+                    "content": "Công cụ viết code JavaScript?",
+                    "options": [
+                        "Chương trình Notepad++",
+                        "Chương trình Visual Studio Code",
+                        "Chương trình Sublime",
+                        "Tất cả chương trình trên"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": 8,
+                    "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": 9,
+                    "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                }
+            ]
         },
         {
-          "id": 2,
-          "content": "Công cụ viết code JavaScript?",
-          "options": [
-            "A. Chương trình Notepad++",
-            "B. Chương trình Visual Studio Code",
-            "C. Chương trình Sublime",
-            "D. Tất cả chương trình trên"
-          ],
-          "correctOption": 0
+            "id": "2",
+            "name": "Bài kiểm tra HTML 1",
+            "time": 7,
+            "difficult": 2,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "HTML là viết tắt của?",
+                    "options": [
+                        "Hyperlinks and Text Markup Language",
+                        "Home Tool Markup Language",
+                        "Hyper Text Markup Language",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                },
+                {
+                    "id": 2,
+                    "content": "Chọn thẻ HTML đúng nhất cho định dạng tiêu đề lớn nhất?",
+                    "options": [
+                        "<h6>",
+                        "<h1>",
+                        "<head>",
+                        "<heading>"
+                    ],
+                    "correctOption": 1
+                },
+                {
+                    "id": 3,
+                    "content": "Thẻ nào dùng để xuống dòng trong HTML?",
+                    "options": [
+                        "<enter>",
+                        "<br>",
+                        "<break>",
+                        "<lb>"
+                    ],
+                    "correctOption": 2
+                }
+            ]
         },
         {
-          "id": 3,
-          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
+            "id": "3",
+            "name": "Bài kiểm tra CSS 1",
+            "time": 7,
+            "difficult": 3,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "Thuộc tính nào thay đổi kích cỡ chữ?",
+                    "options": [
+                        "font-style",
+                        "font-size",
+                        "text-style",
+                        "text-size"
+                    ],
+                    "correctOption": 1
+                },
+                {
+                    "id": 2,
+                    "content": "Làm sao để hiển thị liên kết mà ko có gạch chân bên dưới?",
+                    "options": [
+                        "a {decoration:no underline}",
+                        "a {text-decoration:no underline}",
+                        "a {underline:none}",
+                        "a {text-decoration:none}"
+                    ],
+                    "correctOption": 3
+                },
+                {
+                    "id": 3,
+                    "content": "Làm sao để mỗi từ trong 1 dạng đều viết hoa ở đầu từ?",
+                    "options": [
+                        "text-transform:capitalize",
+                        "text-transform:uppercase",
+                        "Bạn không thể làm điều này trong CSS",
+                        "Không có đáp án nào đúng"
+                    ],
+                    "correctOption": 1
+                },
+                {
+                    "id": 4,
+                    "content": "Làm sao để thay đổi lề trái của một phần tử?",
+                    "options": [
+                        "margin-left:",
+                        "text-indent:",
+                        "margin:",
+                        "indent:"
+                    ],
+                    "correctOption": 0
+                }
+            ]
         },
         {
-          "id": 4,
-          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
+            "id": "4",
+            "name": "Bài kiểm tra HTML/CSS",
+            "time": "8",
+            "difficult": 3,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                },
+                {
+                    "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
+                    "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": "9e0de9be-308c-4c3f-8b3a-0ab3589eedb0",
+                    "content": "Thẻ <input type='text'> dùng để làm gì?",
+                    "options": [
+                        "Tạo một ô text để nhập dữ liệu 1 dòng",
+                        "Tạo một ô password",
+                        "Tạo Textbox cho phép nhập liệu nhiều dòng",
+                        "Tất cả ý trên"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": "a79630c1-7409-4d26-b894-34c908797dba",
+                    "content": "zc",
+                    "options": [
+                        "ádá",
+                        "dá",
+                        "dá",
+                        "d"
+                    ],
+                    "correctOption": "2"
+                }
+            ]
         },
         {
-          "id": 5,
-          "content": "Thẻ <input type='text'> dùng để làm gì?",
-          "options": [
-            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
-            "B. Tạo một ô password",
-            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
-            "D. Tất cả ý trên"
-          ],
-          "correctOption": 0
+            "id": "5",
+            "name": "Bài kiểm tra javascript 1",
+            "time": 7,
+            "difficult": 1,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                }
+            ]
         },
         {
-          "id": 6,
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
+            "id": "6",
+            "name": "Bài kiểm tra javascript 1",
+            "time": 7,
+            "difficult": 2,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                }
+            ]
         },
         {
-          "id": 7,
-          "content": "Công cụ viết code JavaScript?",
-          "options": [
-            "A. Chương trình Notepad++",
-            "B. Chương trình Visual Studio Code",
-            "C. Chương trình Sublime",
-            "D. Tất cả chương trình trên"
-          ],
-          "correctOption": 0
+            "id": "7",
+            "name": "Bài kiểm tra javascript 2",
+            "time": 7,
+            "difficult": 3,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                }
+            ]
         },
         {
-          "id": 8,
-          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
+            "id": "8",
+            "name": "Bài kiểm tra javascript 3",
+            "time": 7,
+            "difficult": 2,
+            "start": 0,
+            "questions": [
+                {
+                    "id": 1,
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                }
+            ]
         },
         {
-          "id": 9,
-          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
+            "id": "82da7292-26cf-4166-8671-476f3cc0991e",
+            "name": "bt ve nhin",
+            "time": "20",
+            "difficult": 1,
+            "start": 0,
+            "questions": []
+        },
+        {
+            "id": "2b215e9d-899a-469b-a6d2-cad9a713de6e",
+            "name": "Bài test tổng hợp phần 1",
+            "time": "6",
+            "difficult": 3,
+            "start": 0,
+            "questions": [
+                {
+                    "id": "4a50fa92-f427-4f26-bd2a-b692ababeb96",
+                    "content": "Đâu là tag căn lề trái cho nội dung 1 ô trong bảng",
+                    "options": [
+                        "<tdleft>",
+                        "<td valign=\"left\">",
+                        "<td align=\"left\">",
+                        "<td leftalign>"
+                    ],
+                    "correctOption": "2"
+                },
+                {
+                    "id": "f8ffbe79-5bcc-4a2d-b357-7598e2cb5e5a",
+                    "content": "Đâu là những tag dành cho việc tạo bảng?",
+                    "options": [
+                        "<table><tr><td>",
+                        "<thead><body><tr>",
+                        "<table><head><tfoot>",
+                        "<table><tr><tt>"
+                    ],
+                    "correctOption": ""
+                },
+                {
+                    "id": "25c51fa8-5823-4d4e-980f-82bdfe32c97c",
+                    "content": "Đặt dòng liên kết với file CSS ở vùng nào trong file HTML?",
+                    "options": [
+                        "Trong thẻ <body>",
+                        "Trong thẻ <head>",
+                        "Ở cuối file HTML",
+                        "Ở đầu file HTML"
+                    ],
+                    "correctOption": "1"
+                },
+                {
+                    "id": "3a6ac512-9652-42dd-96e3-ffeb9d813f37",
+                    "content": "Thuộc tính nào định nghĩa CSS ngay trong 1 tag?",
+                    "options": [
+                        "font",
+                        "class",
+                        "style",
+                        "styles"
+                    ],
+                    "correctOption": "2"
+                },
+                {
+                    "id": "40da1b87-73d8-46eb-b70b-b9e1ea08e204",
+                    "content": "CSS là viết tắt của?",
+                    "options": [
+                        "Creative Style Sheets",
+                        "Computer Style Sheets",
+                        "Cascading Style Sheets",
+                        "Colorful Style Sheets"
+                    ],
+                    "correctOption": "2"
+                },
+                {
+                    "id": "b990025a-19bd-488a-837b-85cea1aacd78",
+                    "content": "Muốn liên kết file HTML với file định nghĩa CSS ta dùng dòng nào sau đây?",
+                    "options": [
+                        "<style src=”mystyle.css”>",
+                        "<stylesheet>mystyle.css</stylesheet>",
+                        "<link rel=”stylesheet” type=”text/css” href=”mystyle.css”>",
+                        "Tất cả đều đúng"
+                    ],
+                    "correctOption": "2"
+                },
+                {
+                    "id": "1a869f8e-2599-4b9c-9616-63a7650ad1a9",
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                },
+                {
+                    "id": "9235db82-bfc9-4f93-8e82-c959b9cbe074",
+                    "content": "Công cụ viết code JavaScript?",
+                    "options": [
+                        "Chương trình Notepad++",
+                        "Chương trình Visual Studio Code",
+                        "Chương trình Sublime",
+                        "Tất cả chương trình trên"
+                    ],
+                    "correctOption": 1
+                },
+                {
+                    "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
+                    "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                }
+            ]
+        },
+        {
+            "id": "cc803e56-14eb-49e5-960d-48308c7da4d0",
+            "name": "Câu hỏi tổng hợp 1",
+            "time": "4",
+            "difficult": 2,
+            "start": 0,
+            "questions": [
+                {
+                    "id": "0b108c9c-452b-4e5f-a9b5-0121bc754687",
+                    "content": "CSS là viết tắt của?",
+                    "options": [
+                        "Creative Style Sheets",
+                        "Computer Style Sheets",
+                        "Cascading Style Sheets",
+                        "Colorful Style Sheets"
+                    ],
+                    "correctOption": "2"
+                },
+                {
+                    "id": "63b423ca-bf0d-47db-b12f-3d9618c0432a",
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                },
+                {
+                    "id": "9235db82-bfc9-4f93-8e82-c959b9cbe074",
+                    "content": "Công cụ viết code JavaScript?",
+                    "options": [
+                        "Chương trình Notepad++",
+                        "Chương trình Visual Studio Code",
+                        "Chương trình Sublime",
+                        "Tất cả chương trình trên"
+                    ],
+                    "correctOption": 1
+                },
+                {
+                    "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
+                    "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": "4cc8831a-8365-40a4-ab2c-f7184a62392a",
+                    "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 3
+                }
+            ]
+        },
+        {
+            "id": "f88aa5a6-c440-44f8-bef1-6710f5c6abe6",
+            "name": "ưqe",
+            "time": "5",
+            "difficult": 2,
+            "start": 0,
+            "questions": [
+                {
+                    "id": "1a869f8e-2599-4b9c-9616-63a7650ad1a9",
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                },
+                {
+                    "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
+                    "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
+                    "options": [
+                        "Khi bắt đầu chương trình chạy",
+                        "Khi click chuột",
+                        "Khi kết thúc một chương trình",
+                        "Khi di chuyển chuột qua"
+                    ],
+                    "correctOption": 0
+                },
+                {
+                    "id": "a79630c1-7409-4d26-b894-34c908797dba",
+                    "content": "zc",
+                    "options": [
+                        "ádá",
+                        "dá",
+                        "dá",
+                        "d"
+                    ],
+                    "correctOption": "2"
+                },
+                {
+                    "id": "63b423ca-bf0d-47db-b12f-3d9618c0432a",
+                    "content": "Mục đích của JavaScript?",
+                    "options": [
+                        "JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
+                        "JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
+                        "Hai phát biểu đều đúng",
+                        "Hai phát biểu đều sai"
+                    ],
+                    "correctOption": 2
+                }
+            ]
+        },
+        {
+            "id": "ae2992d2-813c-4cf0-9249-940252189d19",
+            "name": "sadasdd dsd asd qwd qwe qwe qwe asd asdsa dsa dqwe qw wq dqw qw dqwdwq q",
+            "time": "4",
+            "difficult": 2,
+            "start": 0,
+            "questions": [
+                {
+                    "id": "1621c2c0-b622-4733-9f25-1deded97157b",
+                    "content": "ádasd",
+                    "options": [
+                        "zxcxzc",
+                        "ádw",
+                        "ư21232a",
+                        "ádasd"
+                    ],
+                    "correctOption": "2"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "id": "2",
-      "name": "Bài kiểm tra HTML 1",
-      "time": 7,
-      "difficult": 2,
-      "start": 0,
-      "questions": [
-        {
-          "id": 1,
-          "content": "HTML là viết tắt của?",
-          "options": [
-            "A. Hyperlinks and Text Markup Language",
-            "B. Home Tool Markup Language",
-            "C. Hyper Text Markup Language",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
-        },
-        {
-          "id": 2,
-          "content": "Chọn thẻ HTML đúng nhất cho định dạng tiêu đề lớn nhất?",
-          "options": ["A. <h6>", "B. <h1>", "C. <head>", "D. <heading>"],
-          "correctOption": 1
-        },
-        {
-          "id": 3,
-          "content": "Thẻ nào dùng để xuống dòng trong HTML?",
-          "options": ["A. <enter>", "B. <br>", "C. <break>", "D. <lb>"],
-          "correctOption": 2
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "Bài kiểm tra CSS 1",
-      "time": 7,
-      "difficult": 3,
-      "start": 0,
-      "questions": [
-        {
-          "id": 1,
-          "content": "Thuộc tính nào thay đổi kích cỡ chữ?",
-          "options": [
-            "A. font-style",
-            "B. font-size",
-            "C. text-style",
-            "D. text-size"
-          ],
-          "correctOption": 1
-        },
-        {
-          "id": 2,
-          "content": "Làm sao để hiển thị liên kết mà ko có gạch chân bên dưới?",
-          "options": [
-            "A. a {decoration:no underline}",
-            "B. a {text-decoration:no underline}",
-            "C. a {underline:none}",
-            "D. a {text-decoration:none}"
-          ],
-          "correctOption": 3
-        },
-        {
-          "id": 3,
-          "content": "Làm sao để mỗi từ trong 1 dạng đều viết hoa ở đầu từ?",
-          "options": [
-            "A. text-transform:capitalize",
-            "B. text-transform:uppercase",
-            "C. Bạn không thể làm điều này trong CSS",
-            "D. Không có đáp án nào đúng"
-          ],
-          "correctOption": 1
-        },
-        {
-          "id": 4,
-          "content": "Làm sao để thay đổi lề trái của một phần tử?",
-          "options": [
-            "A. margin-left:",
-            "B. text-indent:",
-            "C. margin:",
-            "D. indent:"
-          ],
-          "correctOption": 0
-        }
-      ]
-    },
-    {
-      "id": "4",
-      "name": "Bài kiểm tra HTML/CSS",
-      "time": "8",
-      "difficult": 3,
-      "start": 0,
-      "questions": [
-        {
-          "id": 1,
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
-        },
-        {
-          "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
-          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
-        },
-        {
-          "id": "9e0de9be-308c-4c3f-8b3a-0ab3589eedb0",
-          "content": "Thẻ <input type='text'> dùng để làm gì?",
-          "options": [
-            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
-            "B. Tạo một ô password",
-            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
-            "D. Tất cả ý trên"
-          ],
-          "correctOption": 0
-        }
-      ]
-    },
-    {
-      "id": "5",
-      "name": "Bài kiểm tra javascript 1",
-      "time": 7,
-      "difficult": 1,
-      "start": 0,
-      "questions": [
-        {
-          "id": 1,
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
-        }
-      ]
-    },
-    {
-      "id": "6",
-      "name": "Bài kiểm tra javascript 1",
-      "time": 7,
-      "difficult": 2,
-      "start": 0,
-      "questions": [
-        {
-          "id": 1,
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
-        }
-      ]
-    },
-    {
-      "id": "7",
-      "name": "Bài kiểm tra javascript 2",
-      "time": 7,
-      "difficult": 3,
-      "start": 0,
-      "questions": [
-        {
-          "id": 1,
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
-        }
-      ]
-    },
-    {
-      "id": "8",
-      "name": "Bài kiểm tra javascript 3",
-      "time": 7,
-      "difficult": 2,
-      "start": 0,
-      "questions": [
-        {
-          "id": 1,
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
-        }
-      ]
-    },
-    {
-      "id": "82da7292-26cf-4166-8671-476f3cc0991e",
-      "name": "bt ve nhin",
-      "time": "20",
-      "difficult": 1,
-      "start": 0,
-      "questions": [
-        {
-          "id": "9e0de9be-308c-4c3f-8b3a-0ab3589eedb0",
-          "content": "Thẻ <input type='text'> dùng để làm gì?",
-          "options": [
-            "A. Tạo một ô text để nhập dữ liệu 1 dòng",
-            "B. Tạo một ô password",
-            "C. Tạo Textbox cho phép nhập liệu nhiều dòng",
-            "D. Tất cả ý trên"
-          ],
-          "correctOption": 0
-        },
-        {
-          "id": "58d11777-aae5-4c2b-87f3-99d7b466a565",
-          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
-        },
-        {
-          "id": "3bda674a-9ec0-436c-bd79-5f51a92fdd93",
-          "content": "Trong Javascript sự kiện OnUnload thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
-        },
-        {
-          "id": "1a869f8e-2599-4b9c-9616-63a7650ad1a9",
-          "content": "Mục đích của JavaScript?",
-          "options": [
-            "A. JavaScript được tạo ra với mục đích xử lý các tác vụ phía Client",
-            "B. JavaScript được tạo ra với mục đích tạo nên tính tương tác cho trang web",
-            "C. Hai phát biểu đều đúng",
-            "D. Hai phát biểu đều sai"
-          ],
-          "correctOption": 2
-        },
-        {
-          "id": "4cc8831a-8365-40a4-ab2c-f7184a62392a",
-          "content": "Trong Javascript sự kiện Onblur thực hiện khi nào?",
-          "options": [
-            "A. Khi bắt đầu chương trình chạy",
-            "B. Khi click chuột",
-            "C. Khi kết thúc một chương trình",
-            "D. Khi di chuyển chuột qua"
-          ],
-          "correctOption": 0
-        },
-        {
-          "id": "9235db82-bfc9-4f93-8e82-c959b9cbe074",
-          "content": "Công cụ viết code JavaScript?",
-          "options": [
-            "A. Chương trình Notepad++",
-            "B. Chương trình Visual Studio Code",
-            "C. Chương trình Sublime",
-            "D. Tất cả chương trình trên"
-          ],
-          "correctOption": 0
-        }
-      ]
-    }
-  ]
+    ]
 }
